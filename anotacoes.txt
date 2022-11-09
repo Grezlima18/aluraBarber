@@ -1,0 +1,33 @@
+<h1> -> Titulo principal
+
+<p> -> Paragrafo
+
+<strong> -> Negrito
+
+<em> -> Italico
+
+<!DOCTYPE html> -> Declarar na primeira linha EM MAIUSCULO para defenir qual versão será usada de HTML, se ficar apenas "html" será buscado a ultima versão
+
+<meta charset="UTF-8"> Define a linguagem usada, o idioma, UTF-8 por exemplo trás todos os asentos
+
+<html> -> Marca o conteudo a ser renderizado no navegador (Pode receber propriedade como por exemplo lang="", no qual pode ser informado o idioma da página)
+
+<title> -> Define o título da página
+
+<head> -> Separa as informações que serão passadas para o navegador
+
+<body> -> Todo o conteudo do corpo do site
+
+<ul> -> Lista sem ordem
+
+<ol> -> Lista com ordem
+
+id -> Específico para algum conteúdo
+
+class -> Pode ser usado várias vezes
+
+<div> -> Divisões do site
+
+<header> -> Cabeçalho (Adicionado no HTML versão 5)
+
+<img src=""> -> Adiciona imagem ao conteúdo
